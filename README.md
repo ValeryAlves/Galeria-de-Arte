@@ -14,26 +14,26 @@ Projeto realizado para a disciplina Persistência Orientada a Objetos do 4º Sem
 
 ## **Tutorial JPA**
 
-<img width="955" height="555" alt="Captura de tela 2025-08-12 203200" src="https://github.com/user-attachments/assets/3b11cd8b-92b1-4f7d-8d95-cd9704213aa0" />
+<img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/8e829efe-d06d-4d88-95c9-6fa678f8a0bc" />
 
-<img width="712" height="491" alt="Captura de tela 2025-08-12 203219" src="https://github.com/user-attachments/assets/7170c964-3873-49fd-b45b-fa10024d508a" />
+<img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/f7418f20-3f02-4266-bd55-1d11cd7e01f2" />
 
-<img width="742" height="496" alt="Captura de tela 2025-08-12 203244" src="https://github.com/user-attachments/assets/2ee2794c-2672-436c-9375-6108968234d8" />
+<img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/11c707b1-8690-4d55-b083-036fb418b853" />
 
-<img width="745" height="486" alt="Captura de tela 2025-08-12 203307" src="https://github.com/user-attachments/assets/4aead94f-90ae-438e-9c8c-f000c4b17122" />
+<img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/a4d0ec00-986e-4d48-9d13-4aabe1d9f0d1" />
 
-<img width="740" height="488" alt="Captura de tela 2025-08-12 203322" src="https://github.com/user-attachments/assets/8c8f3bfe-7d7a-4c34-b825-27fb6df65d04" />
+<img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/83739e6c-da7c-43e5-b687-f7c935fe3092" />
 
-<img width="957" height="430" alt="image" src="https://github.com/user-attachments/assets/407fc3ff-10e4-4d90-9e54-5d00a8a33d8a" />
+<img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/407fc3ff-10e4-4d90-9e54-5d00a8a33d8a" />
 
-<img width="951" height="753" alt="image" src="https://github.com/user-attachments/assets/e8c23142-ffa5-4fd3-ac6c-028d1eb742e8" />
+<img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/e8c23142-ffa5-4fd3-ac6c-028d1eb742e8" />
 
-<img width="905" height="585" alt="Captura de tela 2025-08-12 203824" src="https://github.com/user-attachments/assets/0fcf6665-7188-40b4-b4fc-ad31796ccd3d" />
+<img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/366b774f-6341-4109-94af-e8ba3e004218" />
 
-<img width="842" height="624" alt="Captura de tela 2025-08-12 204009" src="https://github.com/user-attachments/assets/dfb57a3f-a71f-4634-be07-56503597ad1d" />
+<img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/8567fd92-4a62-4943-b791-f74574aa324d" />
 
-<img width="711" height="492" alt="Captura de tela 2025-08-12 204133" src="https://github.com/user-attachments/assets/3dfc4fa1-6d43-4de4-8f8a-a5329280df76" />
+<img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/4cf2030d-ee4e-48f7-86dc-45fa31611bb0" />
 
-<img width="718" height="493" alt="Captura de tela 2025-08-12 204143" src="https://github.com/user-attachments/assets/ee719e8a-2e8d-4d29-ab9a-31bef07861a1" />
+<img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/e86a7591-0993-42f8-9cff-9c5c2d857ea5" />
 
-<img width="949" height="263" alt="Captura de tela 2025-08-12 204858" src="https://github.com/user-attachments/assets/627a072f-0153-40de-8805-f92f037cb89f" />
+<img width="718" height="267" alt="image" src="https://github.com/user-attachments/assets/b76f2290-e88c-4da7-b220-248d4e522dd3" />
