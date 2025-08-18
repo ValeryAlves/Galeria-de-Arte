@@ -26,7 +26,7 @@ Projeto realizado para a disciplina Persistência Orientada a Objetos do 4º Sem
 
 <img width="957" height="430" alt="image" src="https://github.com/user-attachments/assets/407fc3ff-10e4-4d90-9e54-5d00a8a33d8a" />
 
-<img width="945" height="753" alt="Captura de tela 2025-08-12 203543" src="https://github.com/user-attachments/assets/59f702c3-da77-4857-ac85-e7c69a420846" />
+<img width="951" height="753" alt="image" src="https://github.com/user-attachments/assets/e8c23142-ffa5-4fd3-ac6c-028d1eb742e8" />
 
 <img width="905" height="585" alt="Captura de tela 2025-08-12 203824" src="https://github.com/user-attachments/assets/0fcf6665-7188-40b4-b4fc-ad31796ccd3d" />
 
