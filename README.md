@@ -39,6 +39,7 @@ Crie um projeto Java Web chamado Galeria de Arte na IDE, definindo o nome do pro
 <img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/83739e6c-da7c-43e5-b687-f7c935fe3092" />
 
 **Passo 6:**
+
 <img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/407fc3ff-10e4-4d90-9e54-5d00a8a33d8a" />
 
 **Remover Hibernate antigo da IDE**
@@ -54,6 +55,7 @@ Na aba de Libraries do projeto, remova as bibliotecas Hibernate 4.x adicionadas 
 Adicione manualmente os JARs do MySQL Connector/J, Hibernate ORM 5.4.x e JPA ao projeto (ou configure via build tool, se preferir).
 
 **Passo 8:**
+
 <img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/366b774f-6341-4109-94af-e8ba3e004218" />
 
 **Criar persistence.xml**
