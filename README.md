@@ -1,3 +1,17 @@
+## **Tutorial JPA - Disciplina Persistência Orientada a Objetos**
+
+Este é um projeto Java Web chamado Galeria de Arte. 
+Projeto realizado para a disciplina Persistência Orientada a Objetos do 4º Semestre no curso de Sistemas para Internet - IFMT.
+
+## Orientações 
+
+- Criar um projeto Java Web chamado Galeria de Arte
+- Usar o framework Hibernate
+- Apagar os arquivos do Hibernate 4.X que foram trazidos pela IDE Importar os JARs do MySQL Conector ( https://dev.mysql.com/downloads/connector/j/ ), Hibernate e JPA ( https://hibernate.org/orm/releases/5.4/ )
+- Apagar o hibernate.cfg.xml Crie uma unidade de persistência (persistence.xml).
+
+**Obs.:** Não coloque src/conf (netbeans)
+
 ## **Tutorial JPA**
 
 <img width="955" height="555" alt="Captura de tela 2025-08-12 203200" src="https://github.com/user-attachments/assets/3b11cd8b-92b1-4f7d-8d95-cd9704213aa0" />
