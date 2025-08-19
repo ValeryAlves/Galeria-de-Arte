@@ -1,6 +1,6 @@
 ## **Tutorial JPA - Disciplina Persistência Orientada a Objetos**
 
-Este é uma atividade Java Web chamado Galeria de Arte. 
+Esta é uma atividade Java Web chamado Galeria de Arte. 
 Projeto realizado para a disciplina Persistência Orientada a Objetos do 4º Semestre no curso de Sistemas para Internet - IFMT.
 
 ## Orientações 
