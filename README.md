@@ -38,7 +38,7 @@ Crie um projeto Java Web chamado Galeria de Arte na IDE, definindo o nome do pro
 **Passo 3:**
 - Na tela “Name and Location”, localize o campo “Project Name”.
 - Digite o nome desejado para seu projeto.
-        📌 Exemplo da imagem: GaleriadeArtee
+     - Exemplo da imagem: GaleriadeArtee
 - O campo “Project Location” indica onde o projeto será salvo no seu computador.
 - O campo “Project Folder” mostra a pasta final onde o projeto será armazenado.
 - Clique no botão “Next >” na parte inferior da janela para prosseguir.
@@ -47,10 +47,10 @@ Crie um projeto Java Web chamado Galeria de Arte na IDE, definindo o nome do pro
 **Passo 4:**
 - Na tela "Server and Settings", localize o campo "Server".
 - Selecione o servidor de aplicação que será usado para executar o projeto.
-       📌 Exemplo da imagem: GlassFish Server
+     - Exemplo da imagem: GlassFish Server
 - Se ainda não tiver nenhum servidor configurado, clique no botão "Add..." para adicionar um.
 - No campo "Java EE Version", selecione a versão da especificação Java EE (ou Jakarta EE) a ser usada pelo projeto.
-       📌 Exemplo da imagem: Java EE 6 Web
+     - Exemplo da imagem: Java EE 6 Web
 - Deixe a opção "Enable Contexts and Dependency Injection" desmarcada, a menos que saiba que precisará de CDI.
 - No campo "Context Path", o NetBeans preenche automaticamente com base no nome do projeto.
 - Clique no botão “Next >” para ir à próxima etapa.
@@ -59,8 +59,8 @@ Crie um projeto Java Web chamado Galeria de Arte na IDE, definindo o nome do pro
 **Passo 5:**
 - Na tela “Frameworks”, você pode escolher bibliotecas/frameworks adicionais para sua aplicação web.
 - As opções disponíveis normalmente incluem:
-       ✅ Spring Web MVC
-       ✅ JavaServer Faces (JSF)
+     - Spring Web MVC
+     - JavaServer Faces (JSF)
 - Se você não precisa de nenhum framework adicional neste momento (como mostrado na imagem), deixe todas as opções desmarcadas.
        ℹ️ Você poderá adicionar frameworks ao projeto mais tarde, se necessário.
 - Clique no botão “Finish” para concluir o assistente e gerar a estrutura do projeto.
@@ -78,7 +78,7 @@ Na aba de Libraries do projeto, remova as bibliotecas Hibernate 4.x adicionadas 
 - No painel lateral esquerdo Projects, localize o nome do seu projeto.
 - Clique com o botão direito do mouse sobre o nome do projeto para abrir o menu de contexto.
 - No final da lista, clique em "Properties" (ou Propriedades, se o NetBeans estiver em português).
-       📍 Isso abrirá a janela de propriedades do projeto, onde é possível modificar configurações avançadas.
+     - Isso abrirá a janela de propriedades do projeto, onde é possível modificar configurações avançadas.
 <img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/e8c23142-ffa5-4fd3-ac6c-028d1eb742e8" />
 
 **Adicionar dependências (JARs)**
@@ -89,12 +89,12 @@ Adicione manualmente os JARs do MySQL Connector/J, Hibernate ORM 5.4.x e JPA ao 
 - Na janela Project Properties, no menu lateral esquerdo, clique na categoria “Libraries”.
 - Clique no botão "Add JAR/Folder" localizado no lado direito.
 - Na janela de seleção de arquivos, navegue até a pasta onde está localizado o arquivo .jar da biblioteca desejada.
-       📌 Exemplo da imagem:
-       C:\Users\Aluno\Downloads\hibernate-release-5.4.33.Final\lib\required\hibernate-core-5.4.33.Final.jar
+     - Exemplo da imagem:
+     - C:\Users\Aluno\Downloads\hibernate-release-5.4.33.Final\lib\required\hibernate-core-5.4.33.Final.jar
 - Selecione o arquivo e confirme.
 - Verifique se a opção "Build Required Projects" está marcada (ela geralmente já vem ativada por padrão).
 - Clique em “OK” para aplicar as alterações e fechar a janela.
-       ✅ O JAR adicionado aparecerá listado na seção Compile-time Libraries.
+     - O JAR adicionado aparecerá listado na seção Compile-time Libraries.
 <img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/366b774f-6341-4109-94af-e8ba3e004218" />
 
 **Criar persistence.xml**
