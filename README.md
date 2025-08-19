@@ -31,8 +31,8 @@ Crie um projeto Java Web chamado Galeria de Arte na IDE, definindo o nome do pro
      - Projects (à direita)
 - Em Categories, clique na pasta "Java with Ant" para expandir.
 - Dentro da pasta, selecione a opção "Java Web" (destaque verde na imagem).
+- Em Projects, escolha a opção "Web Application".
 - Após selecionar Web Application, clique no botão "Next >" (na parte inferior da janela).
-Em Projects, escolha a opção "Web Application".
 <img width="718" height="493" alt="image" src="https://github.com/user-attachments/assets/f7418f20-3f02-4266-bd55-1d11cd7e01f2" />
 
 **Passo 3:**
